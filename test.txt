@@ -2,4 +2,4 @@ Test!
 
 Add new line in test file!
 
-Add second line in test file!
+Delete and add a new line (in try2)
