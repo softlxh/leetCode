@@ -3,5 +3,3 @@ Test!
 Add new line in test file!
 
 Add second line in test file!
-
-Add third line in test file! (only in branch "try")
